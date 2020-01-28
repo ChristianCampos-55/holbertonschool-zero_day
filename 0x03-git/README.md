@@ -1,1 +1,1 @@
-Small project for the understanding of git\github
+Small project for the understanding of git
