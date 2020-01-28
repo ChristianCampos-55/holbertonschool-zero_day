@@ -1,6 +1,1 @@
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+This is an empty repository for practice purposes.
